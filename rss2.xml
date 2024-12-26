@@ -2,16 +2,20 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Hexo</title>
-    <link>http://example.com/</link>
-    <follow_challenge>
+  <follow_challenge>
         <feedId>94932231153078272</feedId>
         <userId>YQsy1QMseC64oPHtQZtxq</userId>
-    </follow_challenge>
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+  </follow_challenge>
+  <channel>
+    <title>SteveTDX's Mem</title>
+    <link>http://SteveTDX.github.io/</link>
     
-    <description>feedId:94978050632295424+userId:YQsy1QMseC64oPHtQZtxq</description>
+    <atom:link href="http://SteveTDX.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>
+	    <feedId>94978050632295424</feedId>
+		<userId>YQsy1QMseC64oPHtQZtxq</userId>
+	</description>
     <pubDate>Thu, 26 Dec 2024 04:50:51 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
