@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <description feedId:57332742921069568+userId:YQsy1QMseC64oPHtQZtxq/>
+  <description>feedId:57332742921069568+userId:YQsy1QMseC64oPHtQZtxq</>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
