@@ -2,10 +2,7 @@
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <follow_challenge>
-        <feedId>94932231153078272</feedId>
-        <userId>YQsy1QMseC64oPHtQZtxq</userId>
-  </follow_challenge>
+
   <channel>
     <title>SteveTDX's Mem</title>
     <link>http://SteveTDX.github.io/</link>
