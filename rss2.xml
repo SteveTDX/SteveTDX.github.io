@@ -5,7 +5,10 @@
   <channel>
     <title>Hexo</title>
     <link>http://example.com/</link>
-    
+    <follow_challenge>
+        <feedId>94932231153078272</feedId>
+        <userId>YQsy1QMseC64oPHtQZtxq</userId>
+    </follow_challenge>
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>feedId:94978050632295424+userId:YQsy1QMseC64oPHtQZtxq</description>
